@@ -1,4 +1,4 @@
-# LangRepo
+# GoCharting MultiLingual Repo
 
 A repository dedicated to storing language definitions and translations for multilingual support in the GoCharting application.
 
